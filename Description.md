@@ -1,0 +1,1 @@
+A relatively simple test game, sort of a "what if". Combining platformer movement with fighting game mechanics. More of an RPG platformer - not a platform fighter (so not like Rivals of Aether / Brawlhalla / Super Smash Bros).
